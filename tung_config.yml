@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Pakorn Wongwaitayakornkul"
 title_separator          : "-"
 name                     : &name "Pakorn Wongwaitayakornkul"
-description              : &description "Plasma Physicist"
-url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "My Academic Page"
+url                      : https://pwongwai.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tpakorn.github.io"
+repository               : #"tpakorn/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pakorn Wongwaitayakornkul"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Applied Physics @ Caltech"
-  location         : "Pasadena, CA"
+  bio              : "Ph.D. Candidate in Applied Physics"
+  location         : "California Institute of Technology"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=8sguUf0AAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=8sguUf0AAAAJ&hl=en&oi=ao"
   email            : "pwongwai@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"tpakorn"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : #"tpakorn"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: splash
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -244,7 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -309,4 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-

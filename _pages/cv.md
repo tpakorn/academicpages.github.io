@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* B.S. in Physics, Rice University, 2014
+** test test
+* B.A. in Computational and Applied Mathematics, Rice University, 2014 (Summa Cum Laude)
+* M.S. in Applied Physics, Caltech, 2018
+* Ph.D. in Applied Physics, Caltech, 2020 (expected)
 
 Work experience
 ======

@@ -13,6 +13,8 @@
 {% else %}
   {% assign gallery_layout = '' %}
 {% endif %}
+{% assign gallery_layout = 'third' %}
+
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
