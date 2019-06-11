@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "Main Page"
+=======
+title                    : "test1"
+>>>>>>> 1aa3028934c0fb64ae115851b615e0c05d68b9b5
 title_separator          : "-"
 name                     : &name "Pakorn Wongwaitayakornkul"
 description              : &description "Plasma Physicist"
