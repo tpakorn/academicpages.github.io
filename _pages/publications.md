@@ -18,7 +18,7 @@ entries_layout: grid
 
 ---
 
-# Peer Review Publication
+# Refereed Publications
 
 {% for post in site.publications reversed %}
   {% if post.pub == 1 %}
