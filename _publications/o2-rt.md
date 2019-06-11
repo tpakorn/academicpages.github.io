@@ -1,12 +1,11 @@
 ---
-title: "Determination of a Macro- to Micro-Scale Progression Leading to a Magnetized Plasma Disruption"
+title: "Fast Reconnection from Kink-Induced Rayleigh-Taylor"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-authors: Byonghoon Seo, <b>Pakorn Wongwaitayakornkul</b>, Magnus A. Haw, Ryan S. Marshall, Hui Li, and Paul M. Bellan
-excerpt: 'We report observations and a model of a sausage-to-kink instability sequence that breaks off the plasma and causes a fast
-magnetic reconnection.'
+authors: <b>Pakorn Wongwaitayakornkul</b> and Paul M. Bellan
+excerpt: 'I explored the magnetic reconnection caused by kink-induced Rayleigh-Taylor'
 date: 2019-05-21
 venue: 'TBD'
-img: 'p4.png'
+img: 'main21.png'
 pub: 0
 ---
