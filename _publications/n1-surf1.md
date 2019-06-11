@@ -8,5 +8,5 @@ date: 2012-05-21
 venue: 'SURF'
 file: 'surf1.pdf'
 img: 'n1.png'
-pub: false
+pub: 2
 ---

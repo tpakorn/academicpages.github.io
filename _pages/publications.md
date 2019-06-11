@@ -6,16 +6,22 @@ author_profile: true
 entries_layout: grid
 ---
 
-# Peer Review
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Current Work
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% if post.pub == true %}
+  {% if post.pub == 0 %}
+     {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+# Peer Review Publication
+
+{% for post in site.publications reversed %}
+  {% if post.pub == 1 %}
      {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -24,7 +30,7 @@ entries_layout: grid
 
 # Others
 {% for post in site.publications reversed %}
-  {% if post.pub == false %}
+  {% if post.pub == 2 %}
      {% include archive-single.html %}
   {% endif %}
 {% endfor %}

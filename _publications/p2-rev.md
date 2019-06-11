@@ -8,5 +8,5 @@ date: 2018-07-31
 venue: 'ApJL, 862, L15'
 img: 'p2.png'
 doi: "https://doi.org/10.3847/2041-8213/aad33c"
-pub: true
+pub: 1
 ---

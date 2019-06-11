@@ -8,5 +8,5 @@ date: 2019-04-01
 venue: 'ApJ, 874, 137'
 doi: "https://doi.org/10.3847/1538-4357/ab09f2"
 img: 'p3.png'
-pub: true
+pub: 1
 ---

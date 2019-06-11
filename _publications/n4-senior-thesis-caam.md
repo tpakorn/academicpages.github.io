@@ -9,5 +9,5 @@ date: 2014-05-02
 venue: 'CAAM Senior Project'
 file: 'st-caam.pdf'
 img: 'n4.png'
-pub: false
+pub: 2
 ---

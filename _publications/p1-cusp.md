@@ -7,5 +7,5 @@ date: 2017-10-17
 venue: 'ApJ, 848, 2'
 doi: "https://doi.org/10.3847/1538-4357/aa8990"
 img: 'p1.png'
-pub: true
+pub: 1
 ---

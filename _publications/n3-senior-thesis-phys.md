@@ -10,5 +10,5 @@ date: 2013-04-21
 venue: 'Physics Senior Thesis'
 file: 'st-phys.pdf'
 img: 'n3.png'
-pub: false
+pub: 2
 ---
