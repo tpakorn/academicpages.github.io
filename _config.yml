@@ -8,10 +8,14 @@
 # Site Settings
 locale                   : "en-US"
 <<<<<<< HEAD
+<<<<<<< HEAD
 title                    : "Main Page"
 =======
 title                    : "test1"
 >>>>>>> 1aa3028934c0fb64ae115851b615e0c05d68b9b5
+=======
+title                    : "Your Name / Site Title"
+>>>>>>> 45fa9de9a1107abccf4096f87db10e0bb278463c
 title_separator          : "-"
 name                     : &name "Pakorn Wongwaitayakornkul"
 description              : &description "Plasma Physicist"
