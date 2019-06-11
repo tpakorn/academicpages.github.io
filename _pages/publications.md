@@ -20,6 +20,8 @@ entries_layout: grid
   {% endif %}
 {% endfor %}
 
+---
+
 # Others
 {% for post in site.publications reversed %}
   {% if post.pub == false %}
