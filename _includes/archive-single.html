@@ -12,48 +12,29 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign img = post.img %}
+
 <div class="{{ include.type | default: "list" }}__item">
 <hr>
 
-<!--<div class="row">
-  <div class="column left">
-      <p><img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="" style="width:128px;height:128px;"></p>
-  </div>
-  <div class="column right">-->
-
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 	
-
-<!--    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %} 
-
-
-   <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
--->    
-	<h2 class="archive__item">
-      {{ title }}
-    </h2>
+<table style="width:100%;border-style:none;">
+  <tr>
+    <td style="width:25%;border-style:none;vertical-align:top;"><img src="{{ img | prepend: "/images/" | prepend: base_path }}" alt="" /></td>
+    <td style="width:75%;font-size:16px;border-style:none;vertical-align:top;">
+	
+	{% if post.doi %}	
+		<h2 style="margin-top:0px;">
+			<a href="{{ post.doi }}" target="_blank" style="color:black;">{{ title }}</a>
+		</h2>
+	{% elsif post.file %}
+		<h2 style="margin-top:0px;">
+			<a href="{{ post.file | prepend: "/files/" | prepend: base_path }}" target="_blank" style="color:black;">{{ title }}</a>
+		</h2>
+	{% else %}
+		<h2 style="margin-top:0px;">{{ title }}</h2>
+	{% endif %}
 	
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -81,6 +62,10 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
+	
+	</td>
+  </tr>
+</table>
 	
 </article>
 </div>

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Pakorn Wongwaitayakornkul"
 description              : &description "Plasma Physicist"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pakorn Wongwaitayakornkul"
-  avatar           : "profile.png"
+  avatar           : "face1.jpg"
   bio              : "Ph.D. Candidate in Applied Physics @ Caltech"
   location         : "Pasadena, CA"
   employer         :
@@ -219,6 +219,15 @@ defaults:
       share: true
       comments: true
   # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: splash
+      author_profile: true
+      share: true
+      comments: true
+  # _nonpubs
   - scope:
       path: ""
       type: publications

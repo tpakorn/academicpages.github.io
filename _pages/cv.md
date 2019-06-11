@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: ""
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,54 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+California Institute of Technology
+=======
+Pasadena, CA
+* Ph.D. in Applied Physics, 2016 -- Present
+* M.S. in Applied Physics, 2014 -- 2016
 
-* B.S. in Physics, Rice University, 2014
-** test test
-* B.A. in Computational and Applied Mathematics, Rice University, 2014 (Summa Cum Laude)
-* M.S. in Applied Physics, Caltech, 2018
-* Ph.D. in Applied Physics, Caltech, 2020 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+William Marsh Rice University
+=======
+Houston, TX
+* 2010 -- 2014, *Summa Cum Laude*
+* B.S. in Physics
+* B.A. in Computational and Applied Mathematics
