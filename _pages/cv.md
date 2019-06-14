@@ -12,8 +12,9 @@ redirect_from:
 California Institute of Technology
 =======
 Pasadena, CA
-* Ph.D. in Applied Physics, 2016 -- Present
-* M.S. in Applied Physics, 2014 -- 2016
+* 2014 -- Present
+* Ph.D. in Applied Physics
+* M.S. in Applied Physics (2014 -- 2016)
 
 William Marsh Rice University
 =======
