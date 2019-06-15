@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-|Caltech logo |California Institute of Technology|
-||=======|
-||Pasadena, CA|
-||* 2014 -- Present|
-||* Ph.D. in Applied Physics|
-||* M.S. in Applied Physics (2014 -- 2016) |
+|Caltech logo   |California Institute of Technology   |
+|   |=======    |
+|   |Pasadena, CA   |
+|   |* 2014 -- Present   |
+|   |* Ph.D. in Applied Physics   |
+|   |* M.S. in Applied Physics (2014 -- 2016)   |
 
 |Rice logo | William Marsh Rice University
 =======
