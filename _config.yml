@@ -227,15 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _nonpubs
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: splash
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
