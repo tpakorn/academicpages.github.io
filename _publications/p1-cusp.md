@@ -1,6 +1,6 @@
 ---
 title: "Apex Dips of Experimental Flux Ropes: Helix or Cusp?"
-collection: research
+collection: publications
 authors: <b>Pakorn Wongwaitayakornkul</b>, Magnus A. Haw, Hui Li, Paul M. Bellan
 excerpt: 'We present a new theory for the presence of apex dips in certain experimental flux ropes.'
 date: 2017-10-17
