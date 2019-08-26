@@ -12,6 +12,6 @@ redirect_from:
 
 I am a graduate student in Applied Physics at California Institute of Technology working in <a href="http://www.bellanplasmagroup.caltech.edu/" target="_blank">Bellan Plasma Group</a>. 
 My research interests are plasma physics, spheromaks, solar physics, and plasma instabilities. I study these topics with pulse-power
-laboratory experiment and 3D MHD numerical simulation.
+laboratory experiment and MHD numerical simulation.
 
 <img src='/images/main11.png'> | <img src='/images/main21.png'>
