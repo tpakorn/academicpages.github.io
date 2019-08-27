@@ -311,4 +311,4 @@ compress_html:
     envs: development
 
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
