@@ -14,4 +14,4 @@ I am a graduate student in Applied Physics at California Institute of Technology
 My research interests are plasma physics, spheromaks, solar physics, and plasma instabilities. I study these topics with pulse-power
 laboratory experiment and MHD numerical simulation.
 
-<img src='/images/main12.png'> | <img src='/images/main22.png'>
+<img src='/images/main12.png'> | <img src='/images/main12.png'> | <img src='/images/main22.png'>
