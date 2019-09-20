@@ -6,6 +6,6 @@ excerpt: 'We presented a new theory for the presence of apex dips in certain exp
 date: 2017-10-17
 venue: 'ApJ, 848, 2'
 doi: "https://doi.org/10.3847/1538-4357/aa8990"
-img: 'p1.png'
+img: 'p1_1.jpg'
 pub: 1
 ---
