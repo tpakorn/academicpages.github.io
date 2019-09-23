@@ -26,7 +26,7 @@
 	
 	{% if post.doi %}	
 		<h2 style="margin-top:0px;">
-			<a href="{{ post.doi }}" target="_blank" style="color:black;">{{ title }}</a>
+			<h2 style="margin-top:0px;">{{ title }}</h2> <a href="{{ post.doi }}" target="_blank" style="color:black;">"[DOI]"</a>
 		</h2>
 	{% elsif post.file %}
 		<h2 style="margin-top:0px;">
