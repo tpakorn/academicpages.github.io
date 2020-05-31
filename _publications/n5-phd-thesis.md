@@ -7,5 +7,6 @@ excerpt: 'Experimental and numerical studies of a dense magnetically-twisted pla
 date: 2020-02-28
 venue: 'PhD dissertation'
 file: 'phd-thesis.pdf'
+img:'n5.png'
 pub: 2
 ---

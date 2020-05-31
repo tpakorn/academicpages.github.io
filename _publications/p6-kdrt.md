@@ -2,7 +2,7 @@
 title: "Fast Magnetic Reconnection from Kink-Induced Rayleigh-Taylor Instability"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-authors: 
+authors: <b>Pakorn Wongwaitayakornkul</b>, Hui Li, Paul M. Bellan
 excerpt: 'I investigate the kink-induced Rayleigh-Taylor, an MHD instability cascade, using 3D MHD 
 simulation and compare it with previous experimental results.'
 date: 2020-05-20
