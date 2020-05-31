@@ -25,7 +25,7 @@
     <td style="width:75%;font-size:16px;border-style:none;vertical-align:top;">
 	
 	{% if post.doi %}	
-		<h2 style="margin-top:0px;">{{ title }} [ <a href="{{ post.doi }}" target="_blank">DOI</a> ]</h2>
+		<h2 style="margin-top:0px;">{{ title }} <nobr>[ <a href="{{ post.doi }}" target="_blank">DOI</a> ]</nobr></h2>
 	{% elsif post.file %}
 		<h2 style="margin-top:0px;">{{ title }} [ <a href="{{ post.file | prepend: "/files/" | prepend: base_path }}" target="_blank">PDF</a> ]</h2>
 	{% else %}
