@@ -6,6 +6,5 @@ authors:
 excerpt: ''
 date: 2020-05-20
 venue: ''
-img: 'main21.png'
 pub: 0
 ---

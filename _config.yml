@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pakorn Wongwaitayakornkul"
   avatar           : "face1.jpg"
-  bio              : "Ph.D. Candidate in Applied Physics @ Caltech"
-  location         : "Pasadena, CA"
+  bio              : "Postdoc @ UCSD"
+  location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8sguUf0AAAAJ&hl=en&oi=sra"
-  email            : "pwongwai@caltech.edu"
+  email            : "pwongwai@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
