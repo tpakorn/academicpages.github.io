@@ -1,5 +1,5 @@
 ---
-title: "Fast Magnetic Reconnection from Kink-Induced Rayleigh-Taylor Instability"
+title: "3D Numerical Simulation of Kink-driven Rayleigh–Taylor Instability Leading to Fast Magnetic Reconnection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 authors: <b>Pakorn Wongwaitayakornkul</b>, Hui Li, Paul M. Bellan
