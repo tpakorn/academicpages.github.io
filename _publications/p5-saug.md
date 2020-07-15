@@ -7,7 +7,7 @@ excerpt: 'We reported observations and a model of a sausage-to-kink instability 
 magnetic reconnection.'
 date: 2020-02-12
 venue: 'PoP, 27, 022109'
-doi: "https://doi.org/10.3847/2041-8213/ab6b2d"
+doi: "https://doi.org/10.1063/1.5140348"
 img: 'p5.png'
 pub: 1
 ---
