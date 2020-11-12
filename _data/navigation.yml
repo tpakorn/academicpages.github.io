@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /publications/
     
-#  - title: "Conferences"
-#    url: /talks/    
+  - title: "CV"
+    url: /cv/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
